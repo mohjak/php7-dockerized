@@ -23,4 +23,4 @@ Run the following command.
 $ docker-compose up
 ```
 
-More information can be found about the inner workings of this in a post created for [codeschool.com](https://codeschool.com) on Medium [Setting Up A Local PHP7 Development Environment With Docker & Compose](https://medium.com/@hamptonpaulk/setting-up-a-local-php7-development-environment-with-docker-compose)
+More information can be found about the inner workings of this in a post created for [codeschool.com](https://codeschool.com) on Medium [Setting Up A Local PHP7 Development Environment With Docker & Compose](https://medium.com/code-school/setting-up-a-local-php7-development-environment-with-docker-compose-e9531baed291)
